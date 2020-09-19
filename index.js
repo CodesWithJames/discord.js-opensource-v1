@@ -141,4 +141,4 @@ client.on("guildMemberAdd", async member => {
 });
 keepAlive();
 // Login the bot
-client.login("NzMxMTMwNDM2MTA1MDExMjgz.XwhkRw.Yzoe1fu8A2mVPzUOGbdoMMiH9Rc")
+client.login("NzMzOTk2NzgwODIzMjQ4OTU2.XxLRxQ._vllsUNf5-Qlr3pf2DYNPbfacu0")
